@@ -1,10 +1,7 @@
 xarray
 netCDF4
-numpy
-pandas
-h3
+h5netcdf
 geopandas
+pandas
 cdsapi
-python-dotenv
-
-
+numpy==1.26

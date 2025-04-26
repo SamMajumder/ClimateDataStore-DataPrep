@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment settings
+.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# ACT runner cache
+.act/
+
+# Temporary data outputs
+vermont_monthly/
+vermont_monthly_bronze/
+vermont_monthly_silver/
+

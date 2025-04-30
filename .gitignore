@@ -20,11 +20,13 @@ basecode/.idea/
 # Temporary CLI data outputs
 
 # Basecode folder outputs
+basecode/vermont/
 basecode/vermont_monthly/
 basecode/vermont_monthly_bronze/
 basecode/vermont_monthly_silver/
 
 # CLI folder outputs
+era5-monthly-averages/vermont/
 era5-monthly-averages/vermont_monthly/
 era5-monthly-averages/vermont_monthly_bronze/
 era5-monthly-averages/vermont_monthly_silver/
